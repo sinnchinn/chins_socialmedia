@@ -4,6 +4,8 @@
 
 // social media dashboard recreation
 
-// peer review:
+// Peer Reviewer:Aidan Younathan
 
-// peer review comments:
+
+//Peer Review: This looks good! The dark mode and the light mode work good but the spacing could use some work and that top div thats supposed to be in the back is missing, maybe I installed tailwind wrong but good job!
+
